@@ -1,1 +1,1 @@
-# CS-336-BuyMe
+# BuyMe
